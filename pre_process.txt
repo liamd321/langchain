@@ -1,0 +1,2 @@
+The most recent advancedements in NLP are being driven by LLMS. These models benefit greatly from large size and are used by devs working with Natural Language Processing. Developers can use these models through Hugging Face's 'transformers' library, or by utilizing OPenAI and Cohere's offering through the 'openai'
+ and 'cohere' libraries, respectively.

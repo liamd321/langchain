@@ -1,0 +1,1 @@
+The notebooks are meant to be used in the workshop, where TAs can help students with questions, as well as having access to lecture materials on the concepts, not that that is actually going to happen.
